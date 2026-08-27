@@ -66,7 +66,5 @@
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z3R0codeX&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3R0codeX&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Z3R0codeX&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
