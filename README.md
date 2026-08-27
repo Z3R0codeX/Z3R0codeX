@@ -58,15 +58,5 @@
 
 * 📱 **Desarrollo Full Stack & Móvil:** Creación de aplicaciones móviles con React Native y Flutter, complementadas con arquitecturas web en Laravel, microservicios y consumo de APIs REST.
 * 🕹️ **Motores Web Interactivos:** Diseño de lógica modular y experiencias interactivas en Vanilla JavaScript y HTML5 Canvas.
-* 🤖 **IoT & Sistemas Embebidos:** Desarrollo de interfaces de control y telemetría para robótica (InnovaTecNM / InnoBotica).
+* 🤖 **IoT & Sistemas Embebidos:** Desarrollo de interfaces de control y telemetría para robótica.
 * 🐧 **Infraestructura & TI:** Administración de servidores Linux CLI, control de versiones, configuración de redes y ciberseguridad.
-
----
-
-### 📊 Actividad en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=Z3R0codeX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Z3R0codeX&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
-</div>
