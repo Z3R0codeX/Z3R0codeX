@@ -11,17 +11,7 @@
     Enfocado en la creación de interfaces interactivas, arquitecturas escalables mediante APIs REST y la convergencia con <b>Infraestructura de TI</b>, administración de entornos Linux y soluciones <b>IoT / Robótica</b>.
   </p>
 
-  <p>
-    <a href="https://z3r0codex.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portafolio-0D1117?style=flat&logoColor=58A6FF" alt="Portafolio" />
-    </a>
-    &nbsp;
-    <a href="mailto:jliusjimenez@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Contacto-0D1117?style=flat&logoColor=EA4335" alt="Contacto" />
-    </a>
-  </p>
-
-</div>
+  </div>
 
 ---
 
